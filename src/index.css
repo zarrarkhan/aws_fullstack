@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/******* Eexperiment ********/
+
+.experiment {
+  margin-top: 50px !important;
+  padding: 10px !important;
+  background-color: rgb(30, 30, 30);
+  color:rgb(253, 248, 229)
+}
