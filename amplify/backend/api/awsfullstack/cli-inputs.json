@@ -5,7 +5,11 @@
     "serviceName": "AppSync",
     "defaultAuthType": {
       "mode": "API_KEY",
-      "expirationTime": 7
-    }
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2024-02-22T02:49:33.630Z",
+      "keyDescription": "aws_fullstack_api_key"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
   }
 }
